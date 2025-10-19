@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+This personal repository is awesome!
+
 <!--
 **Gimblet/Gimblet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
